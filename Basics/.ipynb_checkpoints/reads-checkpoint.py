@@ -2,7 +2,7 @@
 import pandas as pd 
 
 # Reading data from an Excel file named "Coca Cola Co.xlsx" into a DataFrame
-df = pd.read_excel("sales_data.xlsx")
+df = pd.read_excel("Coca Cola Co.xlsx")
 # Printing the contents of the Excel DataFrame
 print(df)
 # Reading data from a CSV file named "sales_data_sample.csv" with Latin-1 encoding or you can use UTF - 8 encoding if the former doesn't work for you
